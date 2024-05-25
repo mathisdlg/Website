@@ -9,10 +9,6 @@
 </head>
 
 <body>
-    <h1>
-        Welcome to my personal website!
-    </h1>
-
     <?php
         include 'fragments/menu.html';
     ?>
