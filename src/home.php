@@ -3,9 +3,10 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+    <?php
+        include 'fragments/head.html';
+    ?>
     <title>Home</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
